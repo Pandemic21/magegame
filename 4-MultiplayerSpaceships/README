@@ -1,0 +1,5 @@
+To run:
+cd ~/Documents/magegame/4-MultiplayerSpaceships
+node server.js
+
+working and completed 8/3/21

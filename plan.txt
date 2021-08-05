@@ -1,0 +1,42 @@
+1. Setup dev enviornment
+
+Setup Ubuntu VM
+
+2. Read 1-7 of Getting Started
+
+https://phaser.io/tutorials/getting-started-phaser3/index
+
+3. Do "First Game" tutorial
+
+https://phaser.io/tutorials/making-your-first-phaser-3-game/part1
+
+4. Create a simple, single-player Phaser game
+5. Create a simple, multiplayer Phaser game
+
+https://www.dynetisgames.com/2017/03/06/how-to-make-a-multiplayer-online-game-with-phaser-socket-io-and-node-js/
+https://gamedevacademy.org/create-a-basic-multiplayer-game-in-phaser-3-with-socket-io-part-1/
+
+6. Create a simple, single-player Phaser game integrated into a Django website
+7. Create a simple, multiplayer game integrated into a Django website
+8. Create version 0.0.1 of game
+
+Versioning:
+major.minor.current
+e.g. 0.0.1 = unreleased.none of the milestones.1
+
+Major versions go up every major release (e.g. beta to launch)
+Minor versions go up every milestone (e.g. implemented multi-unit selection)
+Current versions go up every milestone in the milestone (and go up a lot)
+
+0.0.1 requirements:
+
+1. Sprite moves on click: https://phaser.io/examples/v3/view/physics/arcade/move-and-stop-at-position
+2. Fireball flies at cursor on keypress: https://phaser.io/examples/v3/view/physics/arcade/move-to-pointer
+
+0.0.2 requirements:
+
+1. Collision with terrain
+
+0.0.3 requirements:
+
+1. Collision with fireballs
