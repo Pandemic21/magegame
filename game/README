@@ -1,6 +1,6 @@
 Compiled:
 
-caldwell@caldwell-VirtualBox:~/Documents/magegame/game$ npm install express -save
+:~/Documents/magegame/game$ npm install express -save
 npm WARN game@1.0.0 No description
 npm WARN game@1.0.0 No repository field.
 
@@ -8,7 +8,7 @@ npm WARN game@1.0.0 No repository field.
 updated 1 package and audited 50 packages in 1.583s
 found 0 vulnerabilities
 
-caldwell@caldwell-VirtualBox:~/Documents/magegame/game$ npm install socket.io -save
+:~/Documents/magegame/game$ npm install socket.io -save
 npm WARN game@1.0.0 No description
 npm WARN game@1.0.0 No repository field.
 
@@ -16,7 +16,7 @@ npm WARN game@1.0.0 No repository field.
 added 22 packages from 66 contributors and audited 72 packages in 1.523s
 found 0 vulnerabilities
 
-caldwell@caldwell-VirtualBox:~/Documents/magegame/game$ date
+:~/Documents/magegame/game$ date
 Tue 03 Aug 2021 11:19:06 PM EDT
 
 
